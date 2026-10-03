@@ -61,8 +61,13 @@ body {
   gap: 8px;
 }
 
-.logo-icon {
-  font-size: 20px;
+.logo-icon-img {
+  width: 24px;
+  height: 24px;
+  border-radius: 5px;
+  object-fit: cover;
+  box-shadow: 0 0 10px rgba(11, 241, 253, 0.35);
+  flex-shrink: 0;
 }
 
 .title {
