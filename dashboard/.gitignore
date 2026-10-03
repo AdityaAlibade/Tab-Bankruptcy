@@ -1,0 +1,17 @@
+﻿# Node modules
+node_modules/
+
+# Vite build output
+dist/
+build/
+
+# Vite cache
+.vite/
+
+# Environment variables
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db

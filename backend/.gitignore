@@ -1,0 +1,23 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+.env.*
+*.local
+
+# SQLite database (auto-created by FastAPI on startup)
+*.db
+*.sqlite
+*.sqlite3
+
+# Distribution / packaging
+dist/
+*.egg-info/

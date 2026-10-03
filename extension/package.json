@@ -1,0 +1,17 @@
+{
+  "name": "tab-bankruptcy-extension",
+  "version": "1.0.0",
+  "description": "Chrome extension to capture and stash all open tabs across all Chrome windows.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/chrome": "^0.0.304",
+    "@types/node": "^22.13.9",
+    "typescript": "^5.7.3",
+    "vite": "^6.2.0"
+  }
+}

@@ -1,0 +1,17 @@
+﻿# Node modules
+node_modules/
+
+# Build output (Chrome extension bundle)
+dist/
+build/
+
+# Vite cache
+.vite/
+
+# Environment variables
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
